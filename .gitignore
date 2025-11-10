@@ -1,0 +1,24 @@
+# --- Virtual environment (never upload) ---
+myenv/
+
+# --- System & cache files ---
+__pycache__/
+.DS_Store
+Thumbs.db
+
+# --- Ignore temporary or backup files ---
+*.tmp
+*.bak
+*.log
+
+# --- Keep outputs (we WANT to push these) ---
+# outputs_norm/
+# outputs_task2/
+# outputs_task3/
+
+# --- Ignore large 3D model files if not needed ---
+*.obj
+
+# --- Ignore MACOSX system folder ---
+__MACOSX/
+ 
