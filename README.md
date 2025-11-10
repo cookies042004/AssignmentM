@@ -2,7 +2,7 @@
 
 ### 📚 Course Assignment
 **Topic:** Data Preprocessing for 3D Meshes  
-**Student:** Abhishek Kumar  
+**Student:** Akhil Puri
 **Repository:** Mixar_Assignment  
 **Environment:** Python 3.11.2 + Trimesh, NumPy, Matplotlib
 
